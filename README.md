@@ -71,5 +71,3 @@ This project is licensed under the [MIT License](LICENSE).
 [Toshe Panov](https://github.com/ToshePanov)
 
 ---
-
-Feel free to tailor the README to match your specific project details and preferences.
